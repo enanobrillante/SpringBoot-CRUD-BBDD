@@ -8,7 +8,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 import javax.validation.constraints.NotEmpty;
-
+//Clase usuario, prueba modificacion comentario para github
 @Entity
 @Table(name="upload_files")
 public class Usuario implements Serializable{
